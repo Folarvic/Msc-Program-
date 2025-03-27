@@ -1,0 +1,11 @@
+{
+  "notebook.cellFocusIndicator": "gutter",
+  "notebook.compactView": true,
+  "notebook.consolidatedOutputButton": true,
+  "notebook.markup.fontSize": 14,
+  "notebook.consolidatedRunButton": true,
+  "notebook.cellExecutionTimeVerbosity": "verbose",
+  "notebook.output.fontFamily": "",
+  "notebook.output.fontSize": 14,
+  "git.ignoreLimitWarning": true
+}
