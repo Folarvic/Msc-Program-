@@ -6,5 +6,6 @@
   "notebook.consolidatedRunButton": true,
   "notebook.cellExecutionTimeVerbosity": "verbose",
   "notebook.output.fontFamily": "",
-  "notebook.output.fontSize": 14
+  "notebook.output.fontSize": 14,
+  "git.ignoreLimitWarning": true
 }
